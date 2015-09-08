@@ -15,7 +15,7 @@
    height="1024"
    id="svg2"
    style="enable-background:new"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="chrome.svg"
    inkscape:export-filename="/Users/paul/src/OpenRA/mods/modchooser/chrome.png"
    inkscape:export-xdpi="90"
@@ -30,17 +30,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1400"
-     inkscape:window-height="935"
+     inkscape:window-height="855"
      id="namedview39"
      showgrid="false"
-     inkscape:zoom="5.0312499"
-     inkscape:cx="66.679329"
-     inkscape:cy="477.38407"
-     inkscape:window-x="96"
-     inkscape:window-y="35"
+     inkscape:zoom="7.1152618"
+     inkscape:cx="482.32527"
+     inkscape:cy="499.34852"
+     inkscape:window-x="61"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        orientation="0,1"
@@ -573,4 +573,22 @@
      id="path3855"
      d="M 411.58951,520.00006 417.19649,544 l -5.60698,23.99994"
      style="fill:none;stroke:#ffffff;stroke-width:4.00005674;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <rect
+     ry="3.9999995"
+     style="fill:#272d2c;fill-opacity:1;stroke:#650b03;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4235"
+     width="61"
+     height="13"
+     x="449.5"
+     y="561.5"
+     rx="4" />
+  <rect
+     style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:3.99999976;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:7.99999952, 15.99999905;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4263"
+     width="58"
+     height="10"
+     x="451"
+     y="547"
+     rx="2.5"
+     ry="2.5" />
 </svg>
