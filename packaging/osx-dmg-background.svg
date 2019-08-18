@@ -15,9 +15,9 @@
    viewBox="0 0 800 600"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="test.svg"
-   inkscape:export-filename="/Users/paul/bg2x.png"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="osx-dmg-background.svg"
+   inkscape:export-filename="/home/paul/bg@2x.png"
    inkscape:export-xdpi="144"
    inkscape:export-ydpi="144">
   <defs
@@ -237,11 +237,11 @@
     </marker>
     <filter
        id="filter3186-5"
-       color-interpolation-filters="sRGB"
        height="1"
        width="1"
        y="0"
-       x="0">
+       x="0"
+       color-interpolation-filters="sRGB">
       <feTurbulence
          id="feTurbulence3188-13"
          type="fractalNoise"
@@ -295,14 +295,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0804528"
-     inkscape:cx="515.48443"
-     inkscape:cy="337.05848"
+     inkscape:zoom="1"
+     inkscape:cx="380.53454"
+     inkscape:cy="275.28103"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1626"
-     inkscape:window-height="1006"
+     inkscape:window-width="1960"
+     inkscape:window-height="1313"
      inkscape:window-x="431"
      inkscape:window-y="55"
      inkscape:window-maximized="0"
@@ -310,7 +310,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     units="pt" />
+     units="px"
+     inkscape:snap-center="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -423,15 +424,6 @@
          d="m 634.81181,767.27097 74.88793,120.13333 -31.23668,44.6818 -145.77116,0 -31.23668,-44.6818 74.88793,-120.13333 z m 7.60893,-14.04674 -73.68652,0 -83.29781,134.18007 40.04702,58.7286 160.1881,0 40.04702,-58.7286 z"
          inkscape:connector-curvature="0" />
     </g>
-    <rect
-       ry="24.580534"
-       style="fill:#cccccc;fill-opacity:0.8;stroke:#650b03;stroke-width:3.99999976;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4197"
-       width="616"
-       height="161"
-       x="150"
-       y="396.36215"
-       rx="24.580536" />
     <g
        id="g4522"
        transform="matrix(0.47720624,0,0,0.47641492,271.37316,518.956)">
@@ -485,26 +477,7 @@
            x="156.84595"
            y="616.98755"
            style="font-family:Cambria;-inkscape-font-specification:Cambria" /></flowRegion><flowPara
-         id="flowPara4008" /></flowRoot>    <rect
-       y="632.36218"
-       x="373"
-       height="160"
-       width="170"
-       id="rect4983"
-       style="fill:#cccccc;fill-opacity:0.75294119;stroke:#650b03;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       ry="24.918592"
-       rx="24.918591" />
-    <g
-       id="g4989"
-       style="fill:#650b03;fill-opacity:1;stroke:none"
-       transform="matrix(1.25,0,0,1.25,-232.42367,-595.00261)">
-      <path
-         d="m 552.33894,971.93561 -24,-41.52 48,0 -24,41.52 z"
-         id="path4995"
-         style="fill:#650b03;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.8pt;marker-start:none"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
+         id="flowPara4008" /></flowRoot>    <g
        id="g5545"
        transform="matrix(0.47720624,0,0,0.47641492,462.83544,112.32318)">
       <path
@@ -534,5 +507,65 @@
          d="m 726.00001,357.70974 -254.93728,0.24205 126.34633,202.54146 128.59095,-202.78351 z m -232.16128,12.81838 209.1322,0 L 597.53009,536.34188 493.83873,370.52812 Z"
          inkscape:connector-curvature="0" />
     </g>
-  </g>
+    <rect
+       ry="24.580534"
+       style="fill:#cccccc;fill-opacity:0.8;stroke:#650b03;stroke-width:3.99999976;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4197"
+       width="616"
+       height="161"
+       x="150"
+       y="308.23715"
+       rx="24.580536" />
+    <rect
+       y="544.23718"
+       x="373"
+       height="160"
+       width="170"
+       id="rect4983"
+       style="fill:#cccccc;fill-opacity:0.75294118;stroke:#650b03;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ry="24.918592"
+       rx="24.918591" />
+    <g
+       id="g4989"
+       style="fill:#650b03;fill-opacity:1;stroke:none"
+       transform="matrix(1.25,0,0,1.25,-232.42367,-694.37761)">
+      <path
+         d="m 552.33894,980.93561 -24,-41.52 h 48 z"
+         id="path4995"
+         style="fill:#650b03;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.80000007pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot955"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.51999998;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffde00;fill-opacity:1;stroke:none"
+       transform="matrix(0.9374005,0,0,0.93750001,-254.20587,267.10738)"><flowRegion
+         id="flowRegion957"
+         style="line-height:0.51999998;text-align:center;text-anchor:middle;fill:#ffde00;fill-opacity:1"><rect
+           id="rect959"
+           width="854.70203"
+           height="178.50919"
+           x="332.77695"
+           y="472.56259"
+           style="line-height:0.51999998;text-align:center;text-anchor:middle;fill:#ffde00;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara961"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33425331px;line-height:0.51999998;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#ffde00;fill-opacity:1">OpenRA may be blocked by macOS's Gatekeeper with an</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33425331px;line-height:0.51999998;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#ffde00;fill-opacity:1"
+         id="flowPara1056"> &quot;unidentified developer&quot; or &quot;integrity cannot be verified&quot; error.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.9374005,0,0,0.93750001,-254.20587,312.10738)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.55000001;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffde00;fill-opacity:1;stroke:none"
+       id="flowRoot1083"
+       xml:space="preserve"><flowRegion
+         style="line-height:0.55000001;text-align:center;text-anchor:middle;fill:#ffde00;fill-opacity:1"
+         id="flowRegion1073"><rect
+           style="line-height:0.55000001;text-align:center;text-anchor:middle;fill:#ffde00;fill-opacity:1"
+           y="472.56259"
+           x="332.77695"
+           height="178.50919"
+           width="854.70203"
+           id="rect1071" /></flowRegion><flowPara
+         id="flowPara1081"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33425331px;line-height:0.52499998;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#ffde00;fill-opacity:1">If this occurs, open &quot;Security &amp; Privacy&quot; in your system preferences</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33425331px;line-height:0.52499998;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#ffde00;fill-opacity:1"
+         id="flowPara1104">and press the &quot;Open Anyway&quot; button to remove the system block.</flowPara></flowRoot>  </g>
 </svg>
