@@ -5978,6 +5978,34 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccssccccccccccsscccccccc" />
     </g>
+    <g
+       style="display:inline;enable-background:new"
+       id="g1455"
+       transform="translate(684,-572.34979)"
+       inkscape:label="crossed">
+      <rect
+         y="572.36218"
+         x="288"
+         height="16"
+         width="16"
+         id="rect1135-63-28-0"
+         style="display:inline;opacity:0;fill:#ffffff;fill-opacity:0.98995002;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;enable-background:new" />
+      <g
+         id="g1443">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 288.00001,574.87679 2.527,-2.527 13.473,13.47264 -2.52704,2.52731 z"
+           id="path3086"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path3088"
+           d="m 304.00001,574.87679 -2.527,-2.527 -13.473,13.47264 2.52704,2.52731 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+    </g>
   </g>
   <g
      style="display:inline"
