@@ -388,8 +388,33 @@
      transform="translate(0,-540.3622)"
      style="display:inline">
     <g
+       inkscape:label="spawn-disabled"
+       transform="translate(-40.999992,-25.000024)"
+       style="display:inline;enable-background:new"
+       id="g4241">
+      <ellipse
+         ry="8.4999676"
+         rx="8.4997797"
+         style="display:inline;fill:#8c8c8c;fill-opacity:1;stroke:#202020;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="ellipse1634"
+         cx="125.00056"
+         cy="695.36298"
+         inkscape:label="spawn-unoccupied" />
+      <path
+         inkscape:connector-curvature="0"
+         style="display:inline;fill:none;stroke:#202020;stroke-width:2.25159;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m 119.39826,688.74127 11.32715,13.12654"
+         id="path714-8" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path714-6-8"
+         d="m 130.47183,688.67824 -11.06981,13.4574"
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#202020;stroke-width:2.63055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;enable-background:new" />
+    </g>
+    <g
        inkscape:label="spawn-occupied"
-       id="g18893">
+       id="g18893"
+       transform="translate(-41.000458)">
       <ellipse
          cy="670.36224"
          cx="79.000519"
@@ -415,7 +440,7 @@
     <ellipse
        inkscape:label="spawn-unoccupied"
        cy="670.36218"
-       cx="101.99978"
+       cx="60.999779"
        id="ellipse18888"
        style="opacity:1;fill:#8c8c8c;fill-opacity:1;stroke:#202020;stroke-width:0.99999899;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        rx="8.4997797"
