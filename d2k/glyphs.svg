@@ -498,7 +498,7 @@
        id="g18893"
        style="display:inline"
        inkscape:label="spawn-selected"
-       transform="translate(0,-540.36413)">
+       transform="translate(-41.000458,-540.36413)">
       <ellipse
          cy="670.36224"
          cx="79.000519"
@@ -523,7 +523,7 @@
     </g>
     <ellipse
        cy="129.99997"
-       cx="101.99978"
+       cx="60.999779"
        id="ellipse18888"
        style="opacity:1;fill:#8c8c8c;fill-opacity:1;stroke:#202020;stroke-width:0.99999899;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        rx="8.4997797"
@@ -547,6 +547,32 @@
          id="path1498"
          d="m 936.5,223.5 h 7 l 6,-6.50007 v 22 l -6,-6.49993 h -7 z"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <g
+       inkscape:label="spawn-disabled"
+       id="g4241"
+       style="display:inline;enable-background:new"
+       transform="matrix(1.0000025,0,0,0.99991393,-41.0003,-565.30312)">
+      <ellipse
+         inkscape:label="spawn-disabled"
+         cy="695.36298"
+         cx="125.00056"
+         id="ellipse1634"
+         style="display:inline;fill:#8c8c8c;fill-opacity:1;stroke:#202020;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         rx="8.4997797"
+         ry="8.4999676" />
+      <path
+         inkscape:label="cross"
+         inkscape:connector-curvature="0"
+         id="path714-8"
+         d="m 119.39826,688.74127 11.32715,13.12654"
+         style="display:inline;fill:none;stroke:#202020;stroke-width:2.25159;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+      <path
+         inkscape:label="cross"
+         inkscape:connector-curvature="0"
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#202020;stroke-width:2.63055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;enable-background:new"
+         d="m 130.47183,688.67824 -11.06981,13.4574"
+         id="path714-6-8" />
     </g>
   </g>
   <g
