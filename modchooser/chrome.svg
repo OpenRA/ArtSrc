@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
-   inkscape:export-filename="/Users/paul/src/OpenRA/mods/modcontent/chrome.png"
+   inkscape:export-filename="chrome.png"
    sodipodi:docname="chrome.svg"
-   inkscape:version="1.0beta1 (32d4812, 2019-09-19)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    style="enable-background:new"
    id="svg2"
    height="1024"
    width="1024"
-   version="1.1">
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      inkscape:snap-page="false"
      inkscape:pagecheckerboard="true"
@@ -46,19 +46,23 @@
     <sodipodi:guide
        id="guide3015"
        position="0,512"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide3853"
        position="384,0"
-       orientation="1,0" />
+       orientation="1,0"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide3857"
        position="404,554.58255"
-       orientation="1,0" />
+       orientation="1,0"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide3859"
        position="424,504.14908"
-       orientation="1,0" />
+       orientation="1,0"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -361,7 +365,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -522,7 +526,8 @@
          width="409.82327"
          id="rect4006" /></flowRegion><flowPara
        style="font-size:40px;line-height:1.25"
-       id="flowPara4008"> </flowPara></flowRoot>  <text
+       id="flowPara4008"> </flowPara></flowRoot>
+  <text
      id="text4010"
      y="650.06226"
      x="125.89062"
@@ -643,4 +648,42 @@
      height="61.109852"
      x="643.44531"
      y="513.44507" />
+  <g
+     inkscape:label="checked"
+     transform="translate(183.52169,-46.18742)"
+     id="g1491"
+     style="display:inline;enable-background:new">
+    <rect
+       style="display:inline;opacity:0;fill:#ffffff;fill-opacity:0.98995;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;enable-background:new"
+       id="rect1135-63-28-07"
+       width="16"
+       height="16"
+       x="272"
+       y="572.36218" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 285.46818,573.86743 2.54657,2.47487 -10.5441,10.51992 -5.47065,-5.52386 2.49822,-2.51412 2.74107,3.21472 z"
+       id="rect4408-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     inkscape:label="checked-disabled"
+     transform="translate(202.53668,-62.18742)"
+     id="g1481"
+     style="display:inline;enable-background:new">
+    <rect
+       style="display:inline;opacity:0;fill:#ffffff;fill-opacity:0.98995;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;enable-background:new"
+       id="rect1135-63-28-8"
+       width="16"
+       height="16"
+       x="272"
+       y="588.36218" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path4413-6"
+       d="m 285.46818,589.86743 2.54657,2.47487 -10.5441,10.51992 -5.47065,-5.52386 2.49822,-2.51412 2.74107,3.21472 z"
+       style="fill:#808080;fill-opacity:1;stroke:none" />
+  </g>
 </svg>
