@@ -340,8 +340,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="25.03125"
-     inkscape:cy="197.6875"
+     inkscape:cx="22.09375"
+     inkscape:cy="197.75"
      inkscape:document-units="px"
      inkscape:current-layer="layer20"
      showgrid="false"
@@ -3367,7 +3367,11 @@
          width="1"
          height="1"
          x="30.999998"
-         y="199" /></g></g><g
+         y="199" /></g><path
+       id="path11368-7"
+       style="display:inline;fill:#ffffff;stroke-width:1.05419;enable-background:new"
+       d="m 34,187 6.60186,15.18986 -1.01922,0.44298 -2.44144,-5.61739 -3.10784,1.35074 z m 0,0 6.60186,15.18986 1.01921,-0.44297 -2.44144,-5.61739 3.10784,-1.35073 z"
+       inkscape:label="editor-select" /></g><g
      inkscape:groupmode="layer"
      id="layer21"
      inkscape:label="24x24"

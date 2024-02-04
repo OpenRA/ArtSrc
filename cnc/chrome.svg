@@ -889,8 +889,8 @@
      showgrid="false"
      inkscape:current-layer="layer20"
      inkscape:document-units="px"
-     inkscape:cy="183.625"
-     inkscape:cx="771.1875"
+     inkscape:cy="177.75"
+     inkscape:cx="796.40625"
      inkscape:zoom="16"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -6650,6 +6650,11 @@
          x="799"
          y="182" />
     </g>
+    <path
+       id="path11368-7"
+       style="display:inline;fill:#ffffff;stroke-width:1.05419;enable-background:new"
+       d="m 802,170 6.60186,15.18986 -1.01922,0.44298 -2.44144,-5.61739 -3.10784,1.35074 z m 0,0 6.60186,15.18986 1.01921,-0.44297 -2.44144,-5.61739 3.10784,-1.35073 z"
+       inkscape:label="editor-select" />
   </g>
   <g
      style="display:inline"
