@@ -387,8 +387,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.999999"
-     inkscape:cx="44.093752"
-     inkscape:cy="150.56251"
+     inkscape:cx="40.109376"
+     inkscape:cy="150.59375"
      inkscape:document-units="px"
      inkscape:current-layer="layer20"
      showgrid="false"
@@ -3424,8 +3424,28 @@
        inkscape:label="editor-tools" />
     <path
        id="path11368-7"
-       style="display:inline;fill:#ffffff;stroke-width:1.05419;enable-background:new"
-       d="m 51,144 6.60186,15.18986 -1.01922,0.44298 -2.44144,-5.61739 -3.10784,1.35074 z m 0,0 6.60186,15.18986 1.01921,-0.44297 -2.44144,-5.61739 3.10784,-1.35073 z"
+       style="display:inline;fill:#ffffff;stroke-width:1.07895;enable-background:new"
+       d="m 51,144 6.756915,15.54662 -1.043158,0.45338 -2.498781,-5.74932 -3.180832,1.38247 z m 0,0 6.756915,15.54662 1.043147,-0.45338 -2.49878,-5.74932 3.180832,-1.38245 z"
        inkscape:label="editor-select" />
+    <g
+       id="g2995"
+       transform="matrix(0.80000014,-0.80000014,0.80000014,0.80000014,-122.60003,39.999984)"
+       inkscape:label="editor-erase"
+       style="display:inline;enable-background:new">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.796781;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2519"
+         width="6.2032194"
+         height="7.2032199"
+         x="50.398388"
+         y="187.39839" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.973058;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2887"
+         width="7"
+         height="4"
+         x="50"
+         y="196" />
+    </g>
   </g>
 </svg>
