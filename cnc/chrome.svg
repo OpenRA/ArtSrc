@@ -6,7 +6,7 @@
    inkscape:export-xdpi="96"
    inkscape:export-filename="../../OpenRA-dragunoff/mods/cnc/uibits/chrome.png"
    sodipodi:docname="chrome.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    version="1.1"
    id="svg2"
    height="512"
@@ -881,22 +881,22 @@
      inkscape:snap-global="true"
      inkscape:guide-bbox="true"
      showguides="true"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:window-height="1017"
-     inkscape:window-width="1920"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="-7"
+     inkscape:window-height="1368"
+     inkscape:window-width="1718"
      showgrid="false"
-     inkscape:current-layer="layer20"
+     inkscape:current-layer="layer4-3"
      inkscape:document-units="px"
-     inkscape:cy="177.8125"
-     inkscape:cx="788.40625"
-     inkscape:zoom="16"
+     inkscape:cy="75.5"
+     inkscape:cx="934.75"
+     inkscape:zoom="4"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
      bordercolor="#666666"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      id="base"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1">
@@ -929,10 +929,16 @@
        position="512,0"
        orientation="1,0" />
     <inkscape:grid
-       dotted="true"
-       empspacing="8"
+       dotted="false"
+       empspacing="16"
        id="grid5768"
-       type="xygrid" />
+       type="xygrid"
+       originx="-7"
+       originy="3"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -942,7 +948,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6674,6 +6679,76 @@
          height="4"
          x="50"
          y="196" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4-3"
+       inkscape:label="bot"
+       style="display:inline;mix-blend-mode:darken;enable-background:new"
+       transform="translate(858.00034,-125)">
+      <rect
+         style="fill:#ffffff;stroke-width:1.09956"
+         id="rect2"
+         width="16"
+         height="2"
+         x="79.999657"
+         y="190.00162" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.96621"
+         id="rect3"
+         width="2"
+         height="10"
+         x="80"
+         y="180" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.96621"
+         id="rect4"
+         width="2"
+         height="10"
+         x="94"
+         y="180" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.952243"
+         id="rect5"
+         width="12"
+         height="2"
+         x="81.999657"
+         y="186.00162" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.611085"
+         id="rect6"
+         width="2"
+         height="4"
+         x="82"
+         y="176" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.611085"
+         id="rect7"
+         width="2"
+         height="4"
+         x="92"
+         y="176" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.952243"
+         id="rect8"
+         width="12"
+         height="2"
+         x="81.999657"
+         y="180.00162" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.611085"
+         id="rect9"
+         width="2"
+         height="4"
+         x="82"
+         y="176" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.864205"
+         id="rect12"
+         width="4"
+         height="4"
+         x="86"
+         y="182" />
     </g>
   </g>
   <g
