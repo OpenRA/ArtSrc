@@ -4,7 +4,7 @@
    height="256"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="glyphs.svg"
    inkscape:export-filename="../../OpenRA-dragunoff/mods/ts/uibits/glyphs.png"
    inkscape:export-xdpi="96"
@@ -386,17 +386,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.999999"
-     inkscape:cx="31.031252"
-     inkscape:cy="155.31251"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="94.250006"
+     inkscape:cy="5.7500004"
      inkscape:document-units="px"
-     inkscape:current-layer="layer20"
+     inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1718"
+     inkscape:window-height="1368"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -431,8 +431,14 @@
     <inkscape:grid
        type="xygrid"
        id="grid5768"
-       empspacing="8"
-       dotted="true" />
+       empspacing="16"
+       dotted="false"
+       originx="-7"
+       originy="3"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -442,7 +448,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3144,6 +3149,76 @@
          height="4"
          x="50"
          y="196" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="bot"
+       style="display:inline;mix-blend-mode:darken;enable-background:new"
+       transform="translate(90.000343,-125)">
+      <rect
+         style="fill:#ffffff;stroke-width:1.09956"
+         id="rect2"
+         width="16"
+         height="2"
+         x="79.999657"
+         y="190.00162" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.96621"
+         id="rect3"
+         width="2"
+         height="10"
+         x="80"
+         y="180" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.96621"
+         id="rect4"
+         width="2"
+         height="10"
+         x="94"
+         y="180" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.952243"
+         id="rect5"
+         width="12"
+         height="2"
+         x="81.999657"
+         y="186.00162" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.611085"
+         id="rect6"
+         width="2"
+         height="4"
+         x="82"
+         y="176" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.611085"
+         id="rect7"
+         width="2"
+         height="4"
+         x="92"
+         y="176" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.952243"
+         id="rect8"
+         width="12"
+         height="2"
+         x="81.999657"
+         y="180.00162" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.611085"
+         id="rect9"
+         width="2"
+         height="4"
+         x="82"
+         y="176" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.864205"
+         id="rect12"
+         width="4"
+         height="4"
+         x="86"
+         y="182" />
     </g>
   </g>
   <g
