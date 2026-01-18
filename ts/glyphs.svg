@@ -4,9 +4,9 @@
    height="256"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="glyphs.svg"
-   inkscape:export-filename="../../OpenRA-dragunoff/mods/ts/uibits/glyphs.png"
+   inkscape:export-filename="E:\OpenRA\OpenRA_GIT\mods\ts\uibits\glyphs.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    style="enable-background:new"
@@ -381,21 +381,21 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#ff00ff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9999998"
-     inkscape:cx="94.250006"
-     inkscape:cy="5.7500004"
+     inkscape:zoom="13.614801"
+     inkscape:cx="125.26808"
+     inkscape:cy="149.91038"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer6-82"
      showgrid="false"
-     inkscape:window-width="1718"
-     inkscape:window-height="1368"
-     inkscape:window-x="-7"
-     inkscape:window-y="0"
+     inkscape:window-width="2597"
+     inkscape:window-height="1338"
+     inkscape:window-x="492"
+     inkscape:window-y="26"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -3219,6 +3219,77 @@
          height="4"
          x="86"
          y="182" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer2-9"
+       inkscape:label="editor-copy"
+       style="display:inline;mix-blend-mode:darken;enable-background:new"
+       transform="translate(82,-121)">
+      <g
+         style="display:inline;opacity:1;mix-blend-mode:darken;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="g5"
+         transform="matrix(0.98461538,0,0,-0.98461538,2.1230769,280.87692)">
+        <path
+           fill-rule="evenodd"
+           d="M 4,2 A 2,2 0 0 1 6,0 h 8 a 2,2 0 0 1 2,2 v 8 a 2,2 0 0 1 -2,2 H 6 A 2,2 0 0 1 4,10 Z M 6,1 A 1,1 0 0 0 5,2 v 8 a 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 V 2 A 1,1 0 0 0 14,1 Z M 2,5 A 1,1 0 0 0 1,6 v 8 a 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 v -1 h 1 v 1 a 2,2 0 0 1 -2,2 H 2 A 2,2 0 0 1 0,14 V 6 A 2,2 0 0 1 2,4 h 1 v 1 z"
+           id="path1-0"
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5-48"
+       inkscape:label="editor-paste"
+       style="display:inline;mix-blend-mode:darken;enable-background:new"
+       transform="translate(82,-121)">
+      <g
+         style="display:inline;opacity:1;mix-blend-mode:darken;fill:#ffffff;fill-opacity:1;enable-background:new"
+         id="g7"
+         transform="translate(19,265)">
+        <path
+           d="M 9.5,0 A 0.5,0.5 0 0 1 10,0.5 0.5,0.5 0 0 0 10.5,1 0.5,0.5 0 0 1 11,1.5 V 2 a 0.5,0.5 0 0 1 -0.5,0.5 h -5 A 0.5,0.5 0 0 1 5,2 V 1.5 A 0.5,0.5 0 0 1 5.5,1 0.5,0.5 0 0 0 6,0.5 0.5,0.5 0 0 1 6.5,0 Z"
+           id="path1-2"
+           style="fill:#ffffff;fill-opacity:1" />
+        <path
+           d="M 3.5,1 H 4.085 A 1.5,1.5 0 0 0 4,1.5 V 2 a 1.5,1.5 0 0 0 1.5,1.5 h 5 A 1.5,1.5 0 0 0 12,2 V 1.5 Q 11.999,1.236 11.915,1 H 12.5 A 1.5,1.5 0 0 1 14,2.5 v 12 A 1.5,1.5 0 0 1 12.5,16 h -9 A 1.5,1.5 0 0 1 2,14.5 V 2.5 A 1.5,1.5 0 0 1 3.5,1"
+           id="path2-4"
+           style="fill:#ffffff;fill-opacity:1" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer6-82"
+       inkscape:label="editor-undo"
+       style="display:inline;mix-blend-mode:darken;enable-background:new"
+       transform="translate(82,-121)">
+      <g
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="g8"
+         transform="matrix(0.93347496,0,0,-0.93347496,36.53114,278.56866)">
+        <path
+           fill-rule="evenodd"
+           d="m 14.5,-0.11634309 a 0.5,0.5 0 0 1 0.5,0.5 V 5.1836569 a 2.5,2.5 0 0 1 -2.5,2.5 H 2.707 l 3.347,3.3460001 a 0.5006316,0.5006316 0 0 1 -0.708,0.708 l -4.2,-4.2000001 a 0.5,0.5 0 0 1 0,-0.708 l 4,-4 a 0.5006316,0.5006316 0 1 1 0.708,0.708 l -3.147,3.146 H 12.5 a 1.5,1.5 0 0 0 1.5,-1.5 V 0.38365691 a 0.5,0.5 0 0 1 0.5,-0.5"
+           id="path1-5"
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer7-4"
+       inkscape:label="editor-redo"
+       style="display:inline;mix-blend-mode:darken;enable-background:new"
+       transform="translate(82,-121)">
+      <g
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="g9"
+         transform="matrix(0.93347496,0,0,-0.93347496,53.53326,280.07748)">
+        <path
+           fill-rule="evenodd"
+           d="M 1.5,1.5 A 0.5,0.5 0 0 0 1,2 v 4.8 a 2.5,2.5 0 0 0 2.5,2.5 h 9.793 l -3.347,3.346 a 0.5006316,0.5006316 0 0 0 0.708,0.708 l 4.2,-4.2 a 0.5,0.5 0 0 0 0,-0.708 l -4,-4 A 0.5006316,0.5006316 0 0 0 10.146,5.154 L 13.293,8.3 H 3.5 A 1.5,1.5 0 0 1 2,6.8 V 2 A 0.5,0.5 0 0 0 1.5,1.5"
+           id="path1-51"
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
     </g>
   </g>
   <g
